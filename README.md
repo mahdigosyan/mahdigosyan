@@ -3,6 +3,9 @@ Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated
 I am a web Developer and software engineer from a place of this earth <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" />
 
 
+My previous account was banned and everything in it was deleted and lost. But it's not a problem, we will progress together again.
+
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="25" height="25" />  A little more about me...
     
 ```javascript
