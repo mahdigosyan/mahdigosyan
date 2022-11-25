@@ -36,6 +36,9 @@ const MahdiGosyan = {
 
 ## Expertise
 <p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,js,vim" />
+  </a>
+</p>
 
