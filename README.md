@@ -38,7 +38,7 @@ const MahdiGosyan = {
 <p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,js,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,jquery,sass,ts,webpack,php,nodejs,python,django,laravel,graphql,postgres,express,fastapi,gitlab,git,mongodb,mysql,nestjs,nextjs,react,kubernetes,docker,redis,vim,wordpress" />
   </a>
 </p>
 
