@@ -30,3 +30,12 @@ const MahdiGosyan = {
     myIllness: "It may be strange for you to believe, but I am sick and crazy about {Books}"
     
     };
+
+```
+<br>
+
+## Expertise
+<p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
