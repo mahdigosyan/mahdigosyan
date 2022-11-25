@@ -4,13 +4,14 @@ I am a web Developer and software engineer from a place of this earth <img src="
 
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Linked%20Paperclips.png" alt="Linked Paperclips" width="25" height="25" />  A little more about me...
-
-    const MahdiGosyan = {     
-        pronouns: "He" | "Him",     
-        aboutMe: "I'm Backend developer and software engineer"
-        language: ["javaScript", "typeScript" ,"php","python"] // Node.js,laravel,django         
-        myStack: {             
-            backEnd: {             
+    
+```javascript
+const MahdiGosyan = {     
+    pronouns: "He" | "Him",     
+    aboutMe: "I'm Backend developer and software engineer"
+    language: ["javaScript", "typeScript" ,"php","python"] // Node.js,laravel,django         
+    myStack: {             
+        backEnd: {             
             frameworks: ["Express.js", "fastify", "koa.js", "Nest.js","laravel","django"],                   
             microServiceTools: ["gRPC", "RabbitMQ", "Kafka"،"Lumen"],
             realTimeTools: ["socket.io", "webSocket"],
